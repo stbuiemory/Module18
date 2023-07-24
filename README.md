@@ -2,7 +2,10 @@
 
 ```sh
 
-Build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. You’ll use Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition to using the Express.jsLinks to an external site. and MongooseLinks to an external site. packages, you may also optionally use a JavaScript date library of your choice or the native JavaScript Date object to format timestamps.
+Build an API for a social network web application where users can share their thoughts, react to friends’ thoughts,
+and create a friend list. You’ll use Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition to
+using the Express.jsLinks to an external site. and MongooseLinks to an external site. packages, you may also optionally
+ use a JavaScript date library of your choice or the native JavaScript Date object to format timestamps.
 ```
 <br> <!-- Double line break for creating a line break -->
 
@@ -26,7 +29,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## ⚙️ Testing
 
 ```sh
-Unfortunately, this app is still a work in progress.  I had a lot of problems with the app itself. Please check back at a later time.
+Unfortunately, this app is still a work in progress.  I had a lot of problems with the app itself.
+Please check back at a later time.
 ```
 
 ## 🤝 Contributors
