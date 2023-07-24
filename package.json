@@ -1,0 +1,28 @@
+{
+  "name": "socialnetworkapi123",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index",
+    "seed": "node utils/seed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stbuiemory/SocialNetworkAPI123.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stbuiemory/SocialNetworkAPI123/issues"
+  },
+  "homepage": "https://github.com/stbuiemory/SocialNetworkAPI123#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.4.0",
+    "nodemon": "^3.0.1",
+    "validator": "^13.9.0"
+  }
+}
