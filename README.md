@@ -1,15 +1,16 @@
 <h1 align="center">Social Network API</h1>
 
-```sh
+<div align="center">
 
 Build an API for a social network web application where users can share their thoughts,
-react to friends’ thoughts, and create a friend list. 
+react to friends’ thoughts, and create a friend list.
 
 You’ll use Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition to
 using the Express.js and Mongoose packages, you may also optionally use a JavaScript date
 library of your choice or the native JavaScript Date object to format timestamps.
 
-```
+</div>
+
 <br> <!-- Double line break for creating a line break -->
 
 <p align="center"><a href="XXX">App is still in testing mode. It's not working.  I'm sorry</a>.</p>
